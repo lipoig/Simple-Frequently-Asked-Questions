@@ -1,0 +1,39 @@
+
+
+body {
+    background-color: #DABCEB; 
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+}
+
+ol, ul {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+p{
+    margin-bottom: 20px;
+}
+
+#content {
+  background-color: #CFC8CF;
+  border-color: #662966;
+  border-width: 10px;
+  border-radius: 20px;
+  border-style: solid;
+  width: 700px;              
+  margin: 50px auto;         
+  padding: 40px;             
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15); 
+}
+
+h1, #firstp{
+  text-align: center;
+}
+
+
+
+h1, h2 {
+    margin-bottom: 15px;
+}
